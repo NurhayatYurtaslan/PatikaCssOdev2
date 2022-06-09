@@ -1,0 +1,17 @@
+body {
+    background-color: #ffffff;
+  }
+  
+  .logo {
+    width: 351px;
+    height: 113px;
+  }
+  
+  .form-bg {
+    background-color: #eee;
+  }
+  
+  .main-table {
+    border: 0;
+    width: 90%;
+  }
